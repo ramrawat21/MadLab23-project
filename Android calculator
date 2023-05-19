@@ -11,3 +11,5 @@ android:orientation="vertical"
 
  <LinearLayout
         android:layout_marginTop="0.1dp"
+android:layout_marginLeft="0.9dp"
+        android:layout_marginRight="0.1dp"
