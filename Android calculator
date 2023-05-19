@@ -25,3 +25,5 @@ android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:gravity="end"
+android:textColor="@android:color/holo_red_light"
+            android:textSize="40sp" />
