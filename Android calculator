@@ -7,3 +7,7 @@
 android:orientation="vertical"
     android:layout_marginTop="0.5dp"
     tools:context="projects.eloy.zone.androidtestproject.MainActivity">
+
+
+ <LinearLayout
+        android:layout_marginTop="0.1dp"
